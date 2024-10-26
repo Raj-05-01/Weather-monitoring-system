@@ -13,16 +13,16 @@
        npm install axios cors dotenv epxress mongoose
      ```
    ### Running application
-       1. open terminal
-       2.  Run Command
-           ```
-            cd backend
-            Node server.js
-           ```
-       4. open another terminal 
-       5. Run Command
-          ```
-           cd frontend
-           npm start
-          ```
+   1. open terminal
+   2. Run Command
+   ```
+      cd backend
+      Node server.js
+   ```
+   3. open another terminal 
+   4. Run Command
+   ```
+      cd frontend
+      npm start
+   ```
       
